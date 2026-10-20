@@ -4,6 +4,8 @@
   # Security research
 
   **Verified findings · private reporting · coordinated publication**
+
+  [Español](README.es.md)
 </div>
 
 Muted Cybersecurity studies security boundaries in open source software and works with maintainers to validate findings and coordinate fixes. This repository is a public record of **published** work. It does not contain active private reports, exploit code, or unpublished technical details.
@@ -18,6 +20,8 @@ Muted Cybersecurity studies security boundaries in open source software and work
 | Teable | [GHSA-w677-p6hx-85vw](https://github.com/teableio/teable/security/advisories/GHSA-w677-p6hx-85vw) | Reporter |
 
 The advisory pages are the source of truth for impact, affected versions, fixes, and credit. We update this list only after an advisory is public and the credit is visible.
+
+Read the [public research notes](docs/public-records.md) for a short, non-operational summary of each record.
 
 ## How we work
 

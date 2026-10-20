@@ -12,6 +12,7 @@ Muted Cybersecurity studies security boundaries in open source software and work
 
 | Project | Advisory | Public credit |
 | --- | --- | --- |
+| File Browser | [GHSA-g2q5-r6ch-v25f](https://github.com/gtsteffaniak/filebrowser/security/advisories/GHSA-g2q5-r6ch-v25f) | Reporter |
 | Wagtail | [GHSA-jrgm-fhgv-hmj9](https://github.com/wagtail/wagtail/security/advisories/GHSA-jrgm-fhgv-hmj9) | Reporter |
 | Teable | [GHSA-4rch-rfjf-6m86](https://github.com/teableio/teable/security/advisories/GHSA-4rch-rfjf-6m86) | Reporter |
 | Teable | [GHSA-w677-p6hx-85vw](https://github.com/teableio/teable/security/advisories/GHSA-w677-p6hx-85vw) | Reporter |

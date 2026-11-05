@@ -14,12 +14,17 @@ Muted Cybersecurity studies security boundaries in open source software and work
 
 | Project | Advisory | Public credit |
 | --- | --- | --- |
+| Apache OFBiz | [CVE-2026-114277](https://www.cve.org/CVERecord?id=CVE-2026-114277) | Reporter |
+| Apache OFBiz | [CVE-2026-114233](https://www.cve.org/CVERecord?id=CVE-2026-114233) | Reporter |
+| Apache Syncope | [CVE-2026-113511](https://www.cve.org/CVERecord?id=CVE-2026-113511) | Finder |
+| pgAdmin 4 | [CVE-2026-116250](https://www.cve.org/CVERecord?id=CVE-2026-116250) | Finder |
+| Kubeflow Pipelines | [CVE-2026-118759](https://github.com/advisories/GHSA-wg5q-x4j9-qm54) | Independent report acknowledged |
 | File Browser | [GHSA-g2q5-r6ch-v25f](https://github.com/gtsteffaniak/filebrowser/security/advisories/GHSA-g2q5-r6ch-v25f) | Reporter |
 | Wagtail | [GHSA-jrgm-fhgv-hmj9](https://github.com/wagtail/wagtail/security/advisories/GHSA-jrgm-fhgv-hmj9) | Reporter |
 | Teable | [GHSA-4rch-rfjf-6m86](https://github.com/teableio/teable/security/advisories/GHSA-4rch-rfjf-6m86) | Reporter |
 | Teable | [GHSA-w677-p6hx-85vw](https://github.com/teableio/teable/security/advisories/GHSA-w677-p6hx-85vw) | Reporter |
 
-The advisory pages are the source of truth for impact, affected versions, fixes, and credit. We update this list only after an advisory is public and the credit is visible.
+The advisory pages are the source of truth for impact, affected versions, fixes, and credit. We update this list only after an advisory is public and the credit is visible. The Kubeflow entry acknowledges an independent report, not initial discovery.
 
 Read the [public research notes](docs/public-records.md) for a short, non-operational summary of each record.
 

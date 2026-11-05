@@ -14,12 +14,17 @@ Muted Cybersecurity estudia límites de seguridad en software de código abierto
 
 | Proyecto | Aviso | Crédito público |
 | --- | --- | --- |
+| Apache OFBiz | [CVE-2026-114277](https://www.cve.org/CVERecord?id=CVE-2026-114277) | Reportero |
+| Apache OFBiz | [CVE-2026-114233](https://www.cve.org/CVERecord?id=CVE-2026-114233) | Reportero |
+| Apache Syncope | [CVE-2026-113511](https://www.cve.org/CVERecord?id=CVE-2026-113511) | Descubridor |
+| pgAdmin 4 | [CVE-2026-116250](https://www.cve.org/CVERecord?id=CVE-2026-116250) | Descubridor |
+| Kubeflow Pipelines | [CVE-2026-118759](https://github.com/advisories/GHSA-wg5q-x4j9-qm54) | Reporte independiente reconocido |
 | File Browser | [GHSA-g2q5-r6ch-v25f](https://github.com/gtsteffaniak/filebrowser/security/advisories/GHSA-g2q5-r6ch-v25f) | Reportero |
 | Wagtail | [GHSA-jrgm-fhgv-hmj9](https://github.com/wagtail/wagtail/security/advisories/GHSA-jrgm-fhgv-hmj9) | Reportero |
 | Teable | [GHSA-4rch-rfjf-6m86](https://github.com/teableio/teable/security/advisories/GHSA-4rch-rfjf-6m86) | Reportero |
 | Teable | [GHSA-w677-p6hx-85vw](https://github.com/teableio/teable/security/advisories/GHSA-w677-p6hx-85vw) | Reportero |
 
-Los avisos originales determinan el impacto, las versiones afectadas, las correcciones y el crédito definitivo. Añadimos un hallazgo cuando el aviso es público y el crédito ya aparece en GitHub.
+Los avisos originales determinan el impacto, las versiones afectadas, las correcciones y el crédito definitivo. Añadimos un hallazgo cuando el aviso es público y el crédito aparece en la fuente original. El reconocimiento de Kubeflow corresponde a un reporte independiente, no al descubrimiento inicial.
 
 Las [notas sobre los avisos publicados](docs/public-records.es.md) ofrecen un resumen breve de cada caso.
 
